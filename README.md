@@ -12,11 +12,11 @@ Analysis* at [SCP2021](https://single-cell.net/proteomics/scp2021)
   features?](./qfeatures_intro.html) demonstrating the managing
   of quantitative proteomcis features.
 
-2. [read single-cell proteomics data](./read_scp_data.html) explains
+3. [read single-cell proteomics data](./read_scp_data.html) explains
   how to load data as a `QFeatures` object, listing requirements and
   showing a real-case example.
 
-- [Data processing with `scp`]() under construction
+4. [Data processing with `scp`]() under construction
 
 
 
