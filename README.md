@@ -24,10 +24,7 @@ Analysis* at [SCP2021](https://single-cell.net/proteomics/scp2021)
 
 ## Further reading
 
-- Vanderaa and Gatto, [Utilizing Scp for the analysis and replication
-  of single-cell proteomics
-  data](https://www.biorxiv.org/content/10.1101/2021.04.12.439408v1)
-  2021.
+- Vanderaa and Gatto, [Utilizing `scp` for the analysis and replication of single-cell proteomics data](https://www.biorxiv.org/content/10.1101/2021.04.12.439408v1) 2021.
   
 - `scp` webpage and vignettes: https://UCLouvain-CBIO.github.io/scp
 
