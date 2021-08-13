@@ -43,5 +43,5 @@ composed of 4 parts:
 
 ## Questions
 
-Connect to www.wooclap.com/YYRQRM
+Connect to http://www.wooclap.com/YYRQRM
 
