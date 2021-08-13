@@ -5,7 +5,7 @@ date: "SCP2021 - 16 August 2021"
 output: 
   html_document:
      css: xaringan-themer.css
-     self_contained: yes
+     self_contained: no
 ---
 
 
