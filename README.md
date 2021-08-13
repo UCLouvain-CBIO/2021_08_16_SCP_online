@@ -29,8 +29,8 @@ composed of 4 parts:
   explains how to load data as a `QFeatures` object, listing
   requirements and showing a real-case example.
 
-4. [**Data processing with scp**]() describes some single-cell
-   processing steps.
+4. [**Data processing with scp**](./scp_processing.html) describes
+   some single-cell processing steps.
 
 
 ## Further reading
