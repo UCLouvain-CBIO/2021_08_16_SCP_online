@@ -40,3 +40,8 @@ composed of 4 parts:
 - `QFeatures` webpage and vignettes: **https://RforMassSpectrometry.github.io/QFeatures**
 
 - On-line tutorial at **https://lgatto.github.io/QFeaturesScpWorkshop2021/**
+
+## Questions
+
+Connect to www.wooclap.com/YYRQRM
+
