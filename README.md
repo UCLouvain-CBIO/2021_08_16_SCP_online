@@ -1,4 +1,3 @@
-
 ---
 title: "SCP 2021 Presentation"
 author: "Laurent Gatto and Christophe Vanderaa, UCLouvain"
@@ -7,7 +6,6 @@ output:
   html_document:
      css: xaringan-themer.css
      self_contained: yes
-
 ---
 
 
@@ -42,4 +40,3 @@ composed of 4 parts:
 - `QFeatures` webpage and vignettes: **https://RforMassSpectrometry.github.io/QFeatures**
 
 - On-line tutorial at **https://lgatto.github.io/QFeaturesScpWorkshop2021/**
-
