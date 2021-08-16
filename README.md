@@ -8,7 +8,12 @@ output:
      self_contained: yes
 ---
 
-Link to this page: **http://bit.ly/202108SCP**
+
+## Links
+
+- Slides: **http://bit.ly/202108SCP**
+- Questions: **http://www.wooclap.com/YYRQRM**
+
 
 ## Talk material
 
@@ -41,7 +46,3 @@ composed of 4 parts:
 - `QFeatures` webpage and vignettes: **https://RforMassSpectrometry.github.io/QFeatures**
 
 - On-line tutorial at **https://lgatto.github.io/QFeaturesScpWorkshop2021/**
-
-## Questions
-
-Connect to **http://www.wooclap.com/YYRQRM**
