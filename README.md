@@ -2,12 +2,13 @@
 title: "SCP 2021 Presentation"
 author: "Laurent Gatto and Christophe Vanderaa, UCLouvain"
 date: "SCP2021 - 16 August 2021"
-output: 
+output:
   html_document:
      css: xaringan-themer.css
-     self_contained: no
+     self_contained: yes
 ---
 
+Link to this page: **http://bit.ly/202108SCP**
 
 ## Talk material
 
@@ -34,7 +35,7 @@ composed of 4 parts:
 ## Further reading
 
 - Vanderaa and Gatto, [**Utilizing `scp` for the analysis and replication of single-cell proteomics data**](https://www.biorxiv.org/content/10.1101/2021.04.12.439408v1) 2021.
-  
+
 - `scp` webpage and vignettes: **https://UCLouvain-CBIO.github.io/scp**
 
 - `QFeatures` webpage and vignettes: **https://RforMassSpectrometry.github.io/QFeatures**
@@ -44,4 +45,3 @@ composed of 4 parts:
 ## Questions
 
 Connect to **http://www.wooclap.com/YYRQRM**
-
